@@ -1,1 +1,3 @@
 # wallpaper
+### 试试在网址后面加1，2，3...
+### 如https://z5215cool.github.io/wallpaper/3/
